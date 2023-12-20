@@ -1,0 +1,11 @@
+﻿{
+  "profiles": {
+    "ConsumoFila": {
+      "commandName": "Project",
+      "commandLineArgs": "amqp://guest:guest@localhost/ Mensagem",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

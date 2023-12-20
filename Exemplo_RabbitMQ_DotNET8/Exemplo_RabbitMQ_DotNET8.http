@@ -1,0 +1,6 @@
+@Exemplo_RabbitMQ_DotNET8_HostAddress = http://localhost:5032
+
+GET {{Exemplo_RabbitMQ_DotNET8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
